@@ -348,7 +348,7 @@ margin-bottom: 70px;
 .foot-1-1 >img{
     width: 82.9px;
     height: 81.65px;
-}
+} 
 .foot-1-1>h1{
     color: rgb(255, 255, 255);
 font-size: 42.14px;
@@ -462,7 +462,7 @@ line-height: 25px;
     /* .our-story{
     max-width: 100%;
     max-height:770px; */
-}
+
 /* .story-1-container{
     display: none;
 }
@@ -473,6 +473,9 @@ line-height: 25px;
 } */
 
 .our-story{
+    display: none;
+}
+.foot{
     display: none;
 }
 }
