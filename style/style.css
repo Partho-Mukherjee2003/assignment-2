@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.quicksand-font {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+ 
+/* Nav section  */
+nav>ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+nav >ul >div >li {
+    list-style: none;
+}
+nav >ul >div >li >a{
+    text-decoration: none;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+#menu-bar{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+#btn{
+    width: 197px;
+    height: 50px;
+    background-color: rgb(254, 163, 1);
+    border-radius: 10px;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+#school{
+    color: rgb(17, 17, 17);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    
+    
+}
+#home{
+    color: rgb(254, 163, 1);
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+}
+#About{
+    color: rgb(1, 172, 253);
+    font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+}
+#Facilities{
+    color:rgb(5, 212, 223) ;
+    font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+}
+#Admission{
+    color:rgb(93, 88, 239) ;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
