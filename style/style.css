@@ -123,7 +123,7 @@ line-height: 30px;
 
 /* Card Section */
 .card-sec{
-    background-image: url(/assets/bg.png);
+    background-image: url("./assets/bg.png");
     height: 700.02px;
 }
 .card-1{
@@ -215,7 +215,7 @@ margin-bottom: 70px;
 }
 /* Our Story Section */
 .our-story{
-    background-image: linear-gradient(0.00deg, rgb(245, 220, 191) 2.884%, rgba(16, 16, 16, 0) 101.034%),url("/assets/bg.png");
+    background-image: linear-gradient(0.00deg, rgb(245, 220, 191) 2.884%, rgba(16, 16, 16, 0) 101.034%),url("./assets/bg.png");
 }
 .story-heading{
     margin-top: 75px;
